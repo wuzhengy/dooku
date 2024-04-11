@@ -1,2 +1,3 @@
 - One starlink is almost 2 ton with 294 sqm size of solar [here](https://forum.nasaspaceflight.com/index.php?topic=58374.80)
 - Some foldable thin film discussion [here](https://onlinelibrary.wiley.com/doi/full/10.1002/nano.202000163)
+- Moscow New Material Solar Energy [here](http://nmse-lab.ru/index.php/en/about-the-laboratory)
