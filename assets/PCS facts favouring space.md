@@ -1,0 +1,4 @@
+- Perovskite potential in bifacial design than in-organic thin-film. Transparent electrodes - TCO, transparent conducting oxide
+- Low curviture folding is still problem for TCO and substrate layers. PCS is only flexible due to its thin nature, not really foldable.
+- Design of solar sail need to be rectangle strip based. Folding in non-active part, then roll.
+- Due to bi-facial nature of PCS, use aluminum coating substrate can bring more light reflection. 
